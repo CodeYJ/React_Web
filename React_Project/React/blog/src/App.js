@@ -28,7 +28,7 @@ function App() {
   // body 영역
   return (
     <div className="App">
-      <div className='black-nav'>
+      <div className='startPage'>
         <div style={
           {
             transform: `translateX(${-position}px)`
@@ -60,10 +60,10 @@ function App() {
             <h2>"<span className='gradient-text'>배움의 즐거움</span>을 아는 개발자,<br />한영준입니다."</h2></span>
 
           <div className='aboutMeText'>
-            <p><span className='gradient-text'>Frontend</span>에 대한 관심이 깊은<span className='gradient-text'>주니어 개발자</span> 입니다.<br />
+            <p><span className='gradient-text'>Frontend</span>에 대한 관심이 깊은 <span className='gradient-text'>주니어 개발자</span>입니다.<br />
               처음 회사에 입사하여 여러 가지 일을 하며 느낀 것은, <span className='gradient-text'>내가 원하는 일</span>만 할 수 있는 것이 아니라는 것입니다.<br />
-              맡은 업무별로 사용하게 되는 언어가 다르고, 개발 플랫폼이나 사용 프로그램을 사용하게 되었습니다.<br />
-              이를 통해 <span className='gradient-text'>분야를 가리지 않고</span> 여러가지 개발에 참여하며 적극적으로 개발에 대한 관심사를 넓혀나가고 있습니다.<br />
+              맡은 업무별로 사용하게 되는 언어가 다르고, 매번 새로운 개발 플랫폼이나 프로그램을 사용하게 되었습니다.<br />
+              이와 같은 경험을 통해 <span className='gradient-text'>분야를 가리지 않고</span> 여러가지 개발에 참여하며 적극적으로 개발에 대한 관심사를 넓혀나가고 있습니다.<br />
               <br />
               <hr />
               <span className='gradient-text' style={
@@ -72,7 +72,7 @@ function App() {
                 }
               }>"기업이 원하는 요소를 갖춘 사람이 되자!"</span><br />
               항상 되새기고 또 되새기는 문장입니다.<br />
-              누구와 비교하여도 뒤지지 않을 저의 큰 장점중 하나입니다.<br />
+              누구와 비교하여도 뒤지지 않을 저의 큰 장점 중 하나입니다.<br />
               항상 위의 문장을 마음에 품고 업무를 처리하면 <span className='gradient-text'>기업의 성장</span> 또한 이루어낼 수 있지만, <span className='gradient-text'>자신의 성장</span>에도 많은 도움을 주는 문장이기 때문에 제게는 큰 자극제가 되어 주었습니다.<br />
               앞으로도 부단히 노력하여 나 자신에게 계속해서 <span className='gradient-text'>성장해 나갈 기회</span>를 만들어주고자 합니다.
             </p></div>
