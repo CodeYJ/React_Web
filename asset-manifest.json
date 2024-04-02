@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc699dca.css",
+    "main.js": "/static/js/main.6f811a58.js",
+    "static/js/453.ede2c593.chunk.js": "/static/js/453.ede2c593.chunk.js",
+    "static/media/Cafe24Decoline.ttf": "/static/media/Cafe24Decoline.18118c17f634f439cf45.ttf",
+    "static/media/ID_Photo.jpg": "/static/media/ID_Photo.ce984ecc317e1998fc03.jpg",
+    "static/media/Title_BG.png": "/static/media/Title_BG.94a4ca18a37d54d06936.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.cc699dca.css.map": "/static/css/main.cc699dca.css.map",
+    "main.6f811a58.js.map": "/static/js/main.6f811a58.js.map",
+    "453.ede2c593.chunk.js.map": "/static/js/453.ede2c593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc699dca.css",
+    "static/js/main.6f811a58.js"
+  ]
+}
