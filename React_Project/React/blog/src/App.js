@@ -187,14 +187,14 @@ function App() {
             }
           }>
             <p>
-              <span className='projectTitleLeft'>Unity WebRTC를 이용한<br />실시간 VR 화상전화 솔루션</span>
+            <span className='projectTitleLeft'>Unity WebRTC를 이용한<br />실시간 VR 화상전화 솔루션</span>
               <br />
               <br />
               Unity WebRTC를 이용한 실시간 VR 화상전화 솔루션 서비스의 모바일(Android) 버전 개발 책임자
               <br />
-              구 버전의 라이브러리를 최신 버전의 라이브러리로 변경하며 발생한 오류 및 코드 최적화 경험
+              WebRTC 영상 송신 / 수신 코드 수정 및 보안, 신규 기능 추가, 라이브러리 버전 업그레이드
               <br />
-              기존에 진행하던 프로그램의 버그 수정 및 신규 기능 추가를 통한 프로젝트 유지 보수 경험
+              FTP통신을 통한 이미지, 영상, 오브젝트 전달 (송신자 {`>`} FTP서버 {">"} 수신자) 기능 개발
               <br />
             </p>
             <span className='projecttool'>C#</span>
@@ -247,6 +247,8 @@ function App() {
               <br />
               Visual Studio Code, C# Winform을 이용한 국방용 자료 수집 장치 개발 공동 책임자
               <br />
+              국방과학연구소에서 제기한 문제나 필요한 신규 기능들을 추가
+              <br />
               기존의 버그 수정과 신규 기능 추가 및 유지 보수
               <br />
             </p>
@@ -254,7 +256,7 @@ function App() {
             <span className='projecttool'>WinForm</span>
             <span className='projecttool'>Openssl</span>
             <span className='projecttool'>FFmpeg</span>
-            <span className='projecttool'>Visual Studio Code</span>
+            <span className='projecttool'>Visual Studio</span>
           </div>
         </div>
 
@@ -272,12 +274,14 @@ function App() {
               <br />
               Visual Studio Cdde, C# WPF를 이용한 국방용 장비 소프트웨어 통제 장치 개발 공동 책임자
               <br />
-              프론트엔드 UI/ UX 설계 및 프로그램 동작 기능 구현
+              UI/UX 설계 및 프로그램 동작 기능 구현
+              <br />
+              TCP 통신을 통해 장치 연동 상태 체크 및 수신한 데이터를 가공하여 사용 가능한 데이터로 저장 
               <br />
             </p>
             <span className='projecttool'>C#</span>
             <span className='projecttool'>WPF</span>
-            <span className='projecttool'>Visual Studio Code</span>
+            <span className='projecttool'>Visual Studio</span>
           </div>
         </div>
       </div>
