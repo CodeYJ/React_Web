@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React_Web/static/css/main.f092d7e4.css",
-    "main.js": "/React_Web/static/js/main.97e0877f.js",
+    "main.js": "/React_Web/static/js/main.9b5e5fd0.js",
     "static/js/453.ede2c593.chunk.js": "/React_Web/static/js/453.ede2c593.chunk.js",
     "static/media/Cafe24Decoline.ttf": "/React_Web/static/media/Cafe24Decoline.18118c17f634f439cf45.ttf",
     "static/media/ID_Photo.jpg": "/React_Web/static/media/ID_Photo.ce984ecc317e1998fc03.jpg",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/React_Web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React_Web/index.html",
     "main.f092d7e4.css.map": "/React_Web/static/css/main.f092d7e4.css.map",
-    "main.97e0877f.js.map": "/React_Web/static/js/main.97e0877f.js.map",
+    "main.9b5e5fd0.js.map": "/React_Web/static/js/main.9b5e5fd0.js.map",
     "453.ede2c593.chunk.js.map": "/React_Web/static/js/453.ede2c593.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f092d7e4.css",
-    "static/js/main.97e0877f.js"
+    "static/js/main.9b5e5fd0.js"
   ]
 }
