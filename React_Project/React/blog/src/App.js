@@ -61,8 +61,8 @@ function App() {
 
           <div className='aboutMeText'>
             <p><span className='gradient-text'>Frontend</span>에 대한 관심이 깊은 <span className='gradient-text'>주니어 개발자</span>입니다.<br />
-              처음 회사에 입사하여 여러 가지 일을 하며 느낀 것은, <span className='gradient-text'>내가 원하는 일</span>만 할 수 있는 것이 아니라는 것입니다.<br />
-              맡은 업무별로 사용하게 되는 언어가 다르고, 매번 새로운 개발 플랫폼이나 프로그램을 사용하게 되었습니다.<br />
+              제가 주로 수행한 업무는 요청 업체의 <span className='gradient-text'>솔루션 프로그램 개발 및 데이터 시각화</span>입니다.<br />
+              업체가 원하는 방향에 따라 프로젝트마다 사용하게 되는 언어가 다르고, 새로운 개발 플랫폼이나 프로그램을 사용하게 되는 일도 있었습니다.<br />
               이와 같은 경험을 통해 <span className='gradient-text'>분야를 가리지 않고</span> 여러가지 개발에 참여하며 적극적으로 개발에 대한 관심사를 넓혀나가고 있습니다.<br />
               <br />
               <hr />
