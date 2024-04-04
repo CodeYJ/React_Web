@@ -84,16 +84,17 @@ function App() {
 
       <span className='skill'>Skill.</span>
       <div className='skillList'>
-        <div className='skillItem'>React</div>
+        <div className='skillItem'>C#</div>
+        <div className='skillItem'>Unity</div>
+        <div className='skillItem'>WPF</div>
+        <div className='skillItem'>WinForm</div>
         <div className='skillItem'>JavaScript</div>
         <div className='skillItem'>HTML5</div>
         <div className='skillItem'>CSS</div>
+        <div className='skillItem'>React</div>
         <div className='skillItem'>JQuery</div>
-        <div className='skillItem'>WPF</div>
-        <div className='skillItem'>WinForm</div>
-        <div className='skillItem'>Unity</div>
-        <div className='skillItem'>Visual Studio Code</div>
         <div className='skillItem'>Visual Studio</div>
+        <div className='skillItem'>Visual Studio Code</div>
       </div>
 
       <div style={{ height: '100px' }} />
@@ -187,7 +188,7 @@ function App() {
             }
           }>
             <p>
-            <span className='projectTitleLeft'>Unity WebRTC를 이용한<br />실시간 VR 화상전화 솔루션</span>
+              <span className='projectTitleLeft'>Unity WebRTC를 이용한<br />실시간 VR 화상전화 솔루션</span>
               <br />
               <br />
               Unity WebRTC를 이용한 실시간 VR 화상전화 솔루션 서비스의 모바일(Android) 버전 개발 책임자
@@ -276,7 +277,7 @@ function App() {
               <br />
               UI/UX 설계 및 프로그램 동작 기능 구현
               <br />
-              TCP 통신을 통해 장치 연동 상태 체크 및 수신한 데이터를 가공하여 사용 가능한 데이터로 저장 
+              TCP 통신을 통해 장치 연동 상태 체크 및 수신한 데이터를 가공하여 사용 가능한 데이터로 저장
               <br />
             </p>
             <span className='projecttool'>C#</span>
